@@ -1,0 +1,10 @@
+# Game data — never commit, this is copyrighted material and hundreds of MB.
+Audio/
+
+# Conversion output
+*.mp3
+*.part
+
+# Python
+__pycache__/
+*.pyc
